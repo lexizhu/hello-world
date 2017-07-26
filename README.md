@@ -1,4 +1,4 @@
 # hello-world
-First practise repository
+First practice repository
 
 A practice for branches
